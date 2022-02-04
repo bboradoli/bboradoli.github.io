@@ -1,6 +1,7 @@
-# Gesko
+# bboradoli's blog
 
-Simple and minimal Jekyll blog. 
+Simple and minimal Jekyll blog.
+theme from [Gesko] 
 Forked from [Asko](https://github.com/manuelmazzuola/asko).
 Original theme from [Sidey](https://github.com/ronv/sidey).
 
